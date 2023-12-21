@@ -102,6 +102,10 @@ html body {
   margin-bottom: 40px;
 }
 
+.title-facilitate {
+  margin-bottom: 40px;
+}
+
 .title-profile {
   margin-bottom: 40px;
   text-align: center;
@@ -109,6 +113,10 @@ html body {
 
 .v-title {
   font-weight: 700;
+}
+
+.title-contact {
+  margin-bottom: 40px;
 }
 
 .profile-desc {
@@ -159,7 +167,15 @@ html body {
 
 @media (max-width: 768px){
   .title {
+    margin-bottom: 30px;
+  }
+
+  .title-facilitate {
     margin-bottom: 80px;
+  }
+
+  .title-contact {
+    margin-top: -60px;
   }
 
   .all-cards {
